@@ -77,5 +77,5 @@ This project is a PHP-based Login and Registration system built as a Laboratory 
 ---
 
 ## 👤 Author
-**[Your Name Here]**
-3rd Year | Bachelor of Science in Information Technology
+**Julianne Benedict Prado**
+3rd Year | Bachelor of Science in Computer Science
